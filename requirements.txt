@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.12
+scikit-learn>=1.7.2
+joblib>=1.4
+numpy>=2.3
